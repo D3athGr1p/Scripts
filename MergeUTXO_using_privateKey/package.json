@@ -1,0 +1,34 @@
+{
+  "name": "mergeutxo_using_privatekey",
+  "version": "1.0.0",
+  "description": "Tool which helps consolidate your unspent transactions outputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3athGr1p/Scripts.git"
+  },
+  "keywords": [
+    "consolidate-utxo",
+    "UTXO"
+  ],
+  "author": "Kishan Sudani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D3athGr1p/Scripts/issues"
+  },
+  "homepage": "https://github.com/D3athGr1p/Scripts#readme",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "bignum": "^0.13.1",
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^9.1.0",
+    "bitcoin-core": "^4.1.0",
+    "bitcoinjs-lib": "^5.2.0",
+    "bitcoinlib": "^1.0.2",
+    "dotenv": "^16.0.1",
+    "yesno": "^0.4.0"
+  }
+}
