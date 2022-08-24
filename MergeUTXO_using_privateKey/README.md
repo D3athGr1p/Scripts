@@ -23,6 +23,11 @@ OUTPUTADDRESS=""
 PORT="" (RPC Port)
 RPCUSER="root"
 RPCPASSWORD="toor"
+bip32PUB=""
+bip32PRIV=""
+pubKeyHash=""
+scriptHash=""
+WIF=""
 ```
 bitcoin.conf example:
 ```
