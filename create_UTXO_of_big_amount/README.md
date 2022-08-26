@@ -19,3 +19,18 @@ decimals =
 sendAmount =
 network = {}
 ```
+
+> edit your `coin.conf`
+```bash
+rpcuser=        (required)
+rpcpassword=    (required)
+rpcport=        (required)
+daemon=1        (optional)
+server=1        (optional)
+txindex=1       (optional)
+```
+
+> run command
+```bash
+node connection.js
+```
